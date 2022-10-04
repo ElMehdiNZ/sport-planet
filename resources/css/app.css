@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @import "@ocrv/vue-tailwind-pagination/dist/style.css"; */
